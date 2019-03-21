@@ -31,16 +31,16 @@ java常遇到的一些基础理念和问题
 ### 5、java 中的 Math.round(-1.5)等于多少？
 - 等于 -1， 如果是满5，则进1； Math.round(-1.6) = -2;
 	
-	 Math.round(-1.5)  == -1;
-	 Math.round(-1.6)  == -2;
-	 Math.floor(1.5)   == 1;
-	 Math.floor(1.6)   == 1;
-	 Math.floor(-1.5)  == -2;
-	 Math.floor(-1.6)  == -2;
-	 Math.ceil(1.4)	   == 2;
-	 Math.ceil(1.6)	   == 2;
-	   Math.ceil(-1.4)   == -1;
-	 Math.ceil(-1.7)   == -1;
+	 Math.round(-1.5)  == -1;  
+	 Math.round(-1.6)  == -2;  
+	 Math.floor(1.5)   == 1;   
+	 Math.floor(1.6)   == 1;   
+	 Math.floor(-1.5)  == -2;   
+	 Math.floor(-1.6)  == -2;   
+	 Math.ceil(1.4)	   == 2;  
+	 Math.ceil(1.6)	   == 2;   
+	 Math.ceil(-1.4)   == -1;    
+	 Math.ceil(-1.7)   == -1;   
 
 
 ### 6、String 属于基础的数据类型吗？
