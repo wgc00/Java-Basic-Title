@@ -1,7 +1,7 @@
 # Java-Basic-Title
 java常遇到的一些基础理念和问题
      
-## 一、JAVA基础
+## 一、JAVA基础   
 
 ### 1、JDK 和 JRE 有什么区别？
 - JDK是开发工具包，JRE是运行环境；JDK包含了JRE。  
