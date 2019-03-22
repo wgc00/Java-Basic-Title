@@ -1,5 +1,5 @@
 # Java-Basic-Title
-java常遇到的一些基础理念和问题
+java常遇到的一些基础理念和问题   
      
 ## 一、JAVA基础   
 
