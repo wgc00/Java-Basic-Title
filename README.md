@@ -659,3 +659,7 @@ java常遇到的一些基础理念和问题
 ### 159、redis 淘汰策略有哪些？
 
 ### 160、redis 常见的性能问题有哪些？ 该如何解决？
+
+
+### 标准答案
+[标准答案](https://nf147.github.io/RRRecruit/interview-vol1-answer.html)
